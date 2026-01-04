@@ -5,8 +5,7 @@
 
 <br/>
 
-<!-- 프로필 뷰 카운터 & 소셜 뱃지 -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondonggyu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+<!-- 소셜 뱃지 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estar987)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.estar987.com)
 
