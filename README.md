@@ -133,34 +133,43 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-100+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-680+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-68_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
 
-### 📅 2026년 1월
+### 📅 2025년 12월 ~ 2026년 1월
 
-| 주차 | 공부 시간 | 주요 학습 내용 | Progress |
-|:---:|:---:|:---|:---:|
-| 1주차 (1/1~1/5) | **25h** | LangChain, RAG 시스템 구축 | ![](https://progress-bar.xyz/100/?width=120&color=6AD3F7) |
-| 2주차 (1/6~1/12) | - | - | ![](https://progress-bar.xyz/0/?width=120&color=6AD3F7) |
-| 3주차 (1/13~1/19) | - | - | ![](https://progress-bar.xyz/0/?width=120&color=6AD3F7) |
-| 4주차 (1/20~1/26) | - | - | ![](https://progress-bar.xyz/0/?width=120&color=6AD3F7) |
+| 기간 | 공부 시간 | 주요 학습 내용 |
+|:---:|:---:|:---|
+| 12/29(월) ~ 01/04(일) | **78h 08m** | 최종 프로젝트 기획, Wedding Planner (개인 프로젝트) |
+| 12/22(월) ~ 12/28(일) | **50h 51m** | 최종 프로젝트 기획 |
+| 12/15(월) ~ 12/21(일) | **80h 21m** | 🏆 카카오테크 부트캠프 AI 해커톤 대회 |
+| 12/08(월) ~ 12/14(일) | **62h 44m** | 카카오테크 부트캠프 부하테스트 |
+| 12/01(월) ~ 12/07(일) | **69h 55m** | FastAPI, Wedding Planner Project |
 
 <details>
-<summary><b>📆 이전 기록 보기</b></summary>
+<summary><b>📆 2025년 11월 기록 보기</b></summary>
 
-### 2025년 12월
-
-| 주차 | 공부 시간 | 주요 학습 내용 | Progress |
-|:---:|:---:|:---|:---:|
-| 1주차 | **20h** | Kubernetes 기초, Docker 심화 | ![](https://progress-bar.xyz/80/?width=120&color=6AD3F7) |
-| 2주차 | **22h** | FastAPI, PostgreSQL 연동 | ![](https://progress-bar.xyz/88/?width=120&color=6AD3F7) |
-| 3주차 | **18h** | AWS 배포, CI/CD 파이프라인 | ![](https://progress-bar.xyz/72/?width=120&color=6AD3F7) |
-| 4주차 | **25h** | LLM 파인튜닝, Transformer | ![](https://progress-bar.xyz/100/?width=120&color=6AD3F7) |
+| 기간 | 공부 시간 | 주요 학습 내용 |
+|:---:|:---:|:---|
+| 11/24(월) ~ 11/30(일) | **65h 55m** | Kaggle, FastAPI |
+| 11/17(월) ~ 11/23(일) | **76h 09m** | FastAPI, LLM, Kaggle |
+| 11/10(월) ~ 11/16(일) | **70h 45m** | LLM, FastAPI |
+| 11/03(월) ~ 11/09(일) | **73h 05m** | LLM, Transformer |
 
 </details>
 
-> 💡 **목표:** 매주 20시간 이상 꾸준히 학습하기!
+<details>
+<summary><b>📆 2025년 10월 기록 보기</b></summary>
+
+| 기간 | 공부 시간 | 주요 학습 내용 |
+|:---:|:---:|:---|
+| 10/27(월) ~ 11/02(일) | **52h 37m** | CNN, YOLO |
+
+</details>
+
+> 🔥 **10주간 총 680시간+ 학습!** 매주 평균 68시간 투자 중!
 
 ---
 
