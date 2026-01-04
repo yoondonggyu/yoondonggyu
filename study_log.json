@@ -1,0 +1,75 @@
+{
+  "records": [
+    {
+      "start_date": "2025-10-27",
+      "end_date": "2025-11-02",
+      "hours": 52,
+      "minutes": 37,
+      "topics": "CNN, YOLO"
+    },
+    {
+      "start_date": "2025-11-03",
+      "end_date": "2025-11-09",
+      "hours": 73,
+      "minutes": 5,
+      "topics": "LLM, Transformer"
+    },
+    {
+      "start_date": "2025-11-10",
+      "end_date": "2025-11-16",
+      "hours": 70,
+      "minutes": 45,
+      "topics": "LLM, FastAPI"
+    },
+    {
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-23",
+      "hours": 76,
+      "minutes": 9,
+      "topics": "FastAPI, LLM, Kaggle"
+    },
+    {
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "hours": 65,
+      "minutes": 55,
+      "topics": "Kaggle, FastAPI"
+    },
+    {
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-07",
+      "hours": 69,
+      "minutes": 55,
+      "topics": "FastAPI, Wedding Planner Project"
+    },
+    {
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-14",
+      "hours": 62,
+      "minutes": 44,
+      "topics": "카카오테크 부트캠프 부하테스트"
+    },
+    {
+      "start_date": "2025-12-15",
+      "end_date": "2025-12-21",
+      "hours": 80,
+      "minutes": 21,
+      "topics": "🏆 카카오테크 부트캠프 AI 해커톤 대회"
+    },
+    {
+      "start_date": "2025-12-22",
+      "end_date": "2025-12-28",
+      "hours": 50,
+      "minutes": 51,
+      "topics": "최종 프로젝트 기획"
+    },
+    {
+      "start_date": "2025-12-29",
+      "end_date": "2026-01-04",
+      "hours": 78,
+      "minutes": 8,
+      "topics": "최종 프로젝트 기획, Wedding Planner"
+    }
+  ]
+}
+
