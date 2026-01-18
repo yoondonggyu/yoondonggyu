@@ -71,6 +71,13 @@
       "topics": "최종 프로젝트 기획, Wedding Planner"
     },
     {
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-11",
+      "hours": 91,
+      "minutes": 11,
+      "topics": "최종 프로젝트 설계"
+    },
+    {
       "start_date": "2026-01-12",
       "end_date": "2026-01-18",
       "hours": 96,
