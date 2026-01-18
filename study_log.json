@@ -69,6 +69,13 @@
       "hours": 78,
       "minutes": 8,
       "topics": "최종 프로젝트 기획, Wedding Planner"
+    },
+    {
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-18",
+      "hours": 96,
+      "minutes": 40,
+      "topics": "최종 프로젝트 모델 선정 및 평가"
     }
   ]
 }
