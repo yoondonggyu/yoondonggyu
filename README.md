@@ -133,8 +133,8 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-777+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
-![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-70_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-868+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-72_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
 
@@ -143,6 +143,7 @@ currently_learning:
 | 기간 | 공부 시간 | 주요 학습 내용 |
 |:---:|:---:|:---|
 | 01/12(월) ~ 01/18(일) | **96h 40m** | 최종 프로젝트 모델 선정 및 평가 |
+| 01/05(월) ~ 01/11(일) | **91h 11m** | 최종 프로젝트 설계 |
 | 12/29(월) ~ 01/04(일) | **78h 08m** | 최종 프로젝트 기획, Wedding Planner |
 
 <details>
@@ -170,7 +171,7 @@ currently_learning:
 
 </details>
 
-> 🔥 **11주간 총 777시간+ 학습!** 매주 평균 70시간 투자 중!
+> 🔥 **12주간 총 868시간+ 학습!** 매주 평균 72시간 투자 중!
 
 ---
 
