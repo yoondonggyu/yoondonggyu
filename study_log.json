@@ -83,6 +83,13 @@
       "hours": 96,
       "minutes": 40,
       "topics": "최종 프로젝트 모델 선정 및 평가"
+    },
+    {
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-25",
+      "hours": 86,
+      "minutes": 38,
+      "topics": "개발 환경 구축 및 V1 개발 시작"
     }
   ]
 }
