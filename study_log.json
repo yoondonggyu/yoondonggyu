@@ -90,6 +90,13 @@
       "hours": 86,
       "minutes": 38,
       "topics": "개발 환경 구축 및 V1 개발 시작"
+    },
+    {
+      "start_date": "2026-01-26",
+      "end_date": "2026-02-01",
+      "hours": 85,
+      "minutes": 28,
+      "topics": "MVP 개발 완료"
     }
   ]
 }
