@@ -133,12 +133,19 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-954+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
-![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-73_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1040+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-74_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
 
-### 📅 2026년 1월
+### 📅 2026년 2월
+
+| 기간 | 공부 시간 | 주요 학습 내용 |
+|:---:|:---:|:---|
+| 01/26(월) ~ 02/01(일) | **85h 28m** | MVP 개발 완료 |
+
+<details>
+<summary><b>📆 2026년 1월 기록 보기</b></summary>
 
 | 기간 | 공부 시간 | 주요 학습 내용 |
 |:---:|:---:|:---|
@@ -146,6 +153,8 @@ currently_learning:
 | 01/12(월) ~ 01/18(일) | **96h 40m** | 최종 프로젝트 모델 선정 및 평가 |
 | 01/05(월) ~ 01/11(일) | **91h 11m** | 최종 프로젝트 설계 |
 | 12/29(월) ~ 01/04(일) | **78h 08m** | 최종 프로젝트 기획, Wedding Planner |
+
+</details>
 
 <details>
 <summary><b>📆 2025년 12월 기록 보기</b></summary>
@@ -172,7 +181,7 @@ currently_learning:
 
 </details>
 
-> 🔥 **13주간 총 954시간+ 학습!** 매주 평균 73시간 투자 중!
+> 🔥 **14주간 총 1040시간+ 학습!** 매주 평균 74시간 투자 중!
 
 ---
 
