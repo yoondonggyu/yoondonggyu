@@ -97,6 +97,13 @@
       "hours": 85,
       "minutes": 28,
       "topics": "MVP 개발 완료"
+    },
+    {
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-08",
+      "hours": 72,
+      "minutes": 59,
+      "topics": "QA 및 V1 개발 회고"
     }
   ]
 }
