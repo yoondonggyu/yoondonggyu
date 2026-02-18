@@ -109,7 +109,7 @@
       "start_date": "2026-02-09",
       "end_date": "2026-02-15",
       "hours": 76,
-      "minutes": 02,
+      "minutes": 2,
       "topics": "V2 개발(Langchain), GPU인스턴스, Vllm 테스트"
     }
   ]
