@@ -104,6 +104,13 @@
       "hours": 72,
       "minutes": 59,
       "topics": "QA 및 V1 개발 회고"
+    },
+    {
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-15",
+      "hours": 76,
+      "minutes": 02,
+      "topics": "V2 개발(Langchain), GPU인스턴스, Vllm 테스트"
     }
   ]
 }
