@@ -133,7 +133,7 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1113+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1189+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
 ![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-74_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
@@ -142,6 +142,7 @@ currently_learning:
 
 | 기간 | 공부 시간 | 주요 학습 내용 |
 |:---:|:---:|:---|
+| 02/09(월) ~ 02/15(일) | **76h 02m** | V2 개발(Langchain), GPU인스턴스, Vllm 테스트 |
 | 02/02(월) ~ 02/08(일) | **72h 59m** | QA 및 V1 개발 회고 |
 | 01/26(월) ~ 02/01(일) | **85h 28m** | MVP 개발 완료 |
 
@@ -182,7 +183,7 @@ currently_learning:
 
 </details>
 
-> 🔥 **15주간 총 1113시간+ 학습!** 매주 평균 74시간 투자 중!
+> 🔥 **16주간 총 1189시간+ 학습!** 매주 평균 74시간 투자 중!
 
 ---
 
