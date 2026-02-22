@@ -110,7 +110,14 @@
       "end_date": "2026-02-15",
       "hours": 76,
       "minutes": 2,
-      "topics": "V2 개발(Langchain), GPU인스턴스, Vllm 테스트"
+      "topics": "V2 개발(Langchain), GPU인스턴스, vllm 테스트"
+    },
+    {
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-22",
+      "hours": 59,
+      "minutes": 28,
+      "topics": "V2 개발(Langchain), 이력서 업데이트, 설 연휴"
     }
   ]
 }
