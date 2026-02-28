@@ -118,6 +118,13 @@
       "hours": 59,
       "minutes": 28,
       "topics": "V2 개발(Langchain), 이력서 업데이트, 설 연휴"
+    },
+    {
+      "start_date": "2026-02-23",
+      "end_date": "2026-03-01",
+      "hours": 80,
+      "minutes": 42,
+      "topics": "RAG, 도커 전환, redis, celery 도입"
     }
   ]
 }
