@@ -133,12 +133,19 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1248+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1329+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
 ![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-73_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
 
-### 📅 2026년 2월
+### 📅 2026년 3월
+
+| 기간 | 공부 시간 | 주요 학습 내용 |
+|:---:|:---:|:---|
+| 02/23(월) ~ 03/01(일) | **80h 42m** | RAG, 도커 전환, redis, celery 도입 |
+
+<details>
+<summary><b>📆 2026년 2월 기록 보기</b></summary>
 
 | 기간 | 공부 시간 | 주요 학습 내용 |
 |:---:|:---:|:---|
@@ -146,6 +153,8 @@ currently_learning:
 | 02/09(월) ~ 02/15(일) | **76h 02m** | V2 개발(Langchain), GPU인스턴스, vllm 테스트 |
 | 02/02(월) ~ 02/08(일) | **72h 59m** | QA 및 V1 개발 회고 |
 | 01/26(월) ~ 02/01(일) | **85h 28m** | MVP 개발 완료 |
+
+</details>
 
 <details>
 <summary><b>📆 2026년 1월 기록 보기</b></summary>
@@ -184,7 +193,7 @@ currently_learning:
 
 </details>
 
-> 🔥 **17주간 총 1248시간+ 학습!** 매주 평균 73시간 투자 중!
+> 🔥 **18주간 총 1329시간+ 학습!** 매주 평균 73시간 투자 중!
 
 ---
 
