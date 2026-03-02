@@ -122,8 +122,8 @@
     {
       "start_date": "2026-02-23",
       "end_date": "2026-03-01",
-      "hours": 80,
-      "minutes": 42,
+      "hours": 90,
+      "minutes": 09,
       "topics": "RAG, 도커 전환, redis, celery 도입"
     }
   ]
