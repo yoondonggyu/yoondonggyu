@@ -125,6 +125,13 @@
       "hours": 90,
       "minutes": 19,
       "topics": "RAG, 도커 전환, redis, celery 도입"
+    },
+    {
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-08",
+      "hours": 79,
+      "minutes": 24,
+      "topics": "SageMaker, 이력서, 포폴 작성"
     }
   ]
 }
