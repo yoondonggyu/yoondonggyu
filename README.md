@@ -133,8 +133,8 @@ currently_learning:
 <div align="center">
 
 <!-- 총 누적 공부 시간 -->
-![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1496+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
-![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-74_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
+![Total Study Time](https://img.shields.io/badge/Total_Study_Time-1619+_hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)
+![Average Per Week](https://img.shields.io/badge/Avg_Per_Week-73_hours-4ECDC4?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
 
@@ -142,6 +142,8 @@ currently_learning:
 
 | 기간 | 공부 시간 | 주요 학습 내용 |
 |:---:|:---:|:---|
+| 03/23(월) ~ 03/29(일) | **54h 57m** | 종강 및 종강 후 계획 수립 |
+| 03/16(월) ~ 03/22(일) | **67h 42m** | 이력서, 포폴 작성, 발표 자료 작성 |
 | 03/09(월) ~ 03/15(일) | **77h 44m** | 이력서, 포폴 작성, 완료 보고서 작성 |
 | 03/02(월) ~ 03/08(일) | **79h 24m** | SageMaker, 이력서, 포폴 작성 |
 | 02/23(월) ~ 03/01(일) | **90h 19m** | RAG, 도커 전환, redis, celery 도입 |
@@ -195,7 +197,7 @@ currently_learning:
 
 </details>
 
-> 🔥 **20주간 총 1496시간+ 학습!** 매주 평균 74시간 투자 중!
+> 🔥 **22주간 총 1619시간+ 학습!** 매주 평균 73시간 투자 중!
 
 ---
 
