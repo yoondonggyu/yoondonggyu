@@ -23,7 +23,7 @@ education: Kakao Tech Bootcamp
 
 fields_of_interests:
   - "Artificial Intelligence"
-  - "DevOps / MLOps"
+  - "DevOps / MLOps / LLMOps / AIOps"
   - "Cloud Infrastructure"
   - "High Performance Computing"
   
